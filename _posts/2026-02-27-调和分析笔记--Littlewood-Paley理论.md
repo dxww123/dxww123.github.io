@@ -1,3 +1,11 @@
+---
+layout: post
+title: "调和分析笔记--Littlewood-Paley理论"
+date: 2026-02-27 10:00:00 +0800
+tags: [调和分析, Littlewood-Paley, 傅里叶分析]
+author: dxww
+---
+
 最近看调和分析看得头痛, 为了整理思路, 也为了方便别人, 我把看书(主要是张晓轶的Lecture Notes on the Basic Analysis Tools for Critical Dispersive PDEs)遇到的gap都填上, 写成这篇笔记. 这篇笔记过去长时间处于未完成/低质量状态, 这次决心把坑填好. 
 
 首先我们需要紧支光滑函数来实现频率的局部化, 比方说如果$\phi\in C_c^\infty(U)$, 那么$(\phi \widehat f)^\vee$的频率(即它的Fourier变换)就被限制在了$U$内. 

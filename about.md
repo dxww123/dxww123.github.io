@@ -26,5 +26,5 @@ permalink: /about/
 
 如果你有任何问题或建议，欢迎通过以下方式联系我：
 
-- Email: your.email@example.com
+- Email: wenzesu@qq.com
 - GitHub: [github.com/dxww123](https://github.com/dxww123)
